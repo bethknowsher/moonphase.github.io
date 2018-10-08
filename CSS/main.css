@@ -1,0 +1,75 @@
+body{
+  background: #373842;
+  color: #FFFFFF;
+  font-family: 'Muli', serif;
+  text-align: center;
+  font-size: 25px;
+}
+
+#newmoon {
+  height: 50px;
+  width: 50px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+  border-color: #;
+}
+#waxc {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: inset -13px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+  -moz-box-shadow: inset -13px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+}
+
+#firstquart {
+  height: 50px;
+  width: 25px;
+  background-color: #D4AF37;
+  display: inline-block;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;  
+}
+#waxg {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  border-color: #D4AF37;
+  box-shadow: inset -20px 0px #D4Af37, inset 30px 0px 1px 2px #000000;
+  -moz-box-shadow: inset -20px 0px #D4Af37, inset 30px 0px 1px 2px #000000;
+}
+#fullmoon {
+  height: 50px;
+  width: 50px;
+  background-color: #D4AF37;
+  border-radius: 50%;
+  display: inline-block;
+}
+#wang {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  border-color: #;
+  box-shadow: inset 20px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+  -moz-box-shadow: inset 20px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+}
+#thirdquart {
+  height: 50px;
+  width: 25px;
+  background-color: #D4AF37;
+  display: inline-block;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+#waxc2 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  border-color: #;
+  box-shadow: inset 13px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+  -moz-box-shadow: inset 13px 0px #D4AF37, inset 50px 0px 1px 2px #000000;
+}
